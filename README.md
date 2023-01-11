@@ -13,4 +13,4 @@ We created a Customer Travel Destinations Map, identifying with the data importe
 
 Below is a map reflecting a route of four different cities in France that follow our parameters for an ideal vacation!
 
-[WeatherPy_vacation_map (2)](https://user-images.githubusercontent.com/111472338/211737128-875365b2-9d84-4a4c-86c7-c66c849be753.png)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/111472338/211737228-4fcb914e-c0b4-45c8-a191-f2d85656e4ec.png)
